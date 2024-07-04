@@ -4,7 +4,7 @@
   <b>A software engineer who loves building products.</b><br> <br>
   <a href="https://www.linkedin.com/in/firdavs-muzafarov/" target="_blank">LinkedIn</a> |
   <a href="https://onef.uz/" target="_blank">Portfolio</a> |
-  <a href="https://t.me/Redcore9" target="_blank">Telegram</a> |
+  <a href="https://t.me/Redcore9" target="_blank">Telegram</a>|
   <br><br>
 </p>
 
